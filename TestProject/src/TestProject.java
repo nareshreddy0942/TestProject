@@ -1,5 +1,7 @@
 
 public class TestProject {
 
-	Hi
+	public void name() {
+		
+	}
 }
